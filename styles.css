@@ -1,0 +1,42 @@
+.form-fields{
+
+    margin-bottom:12px;
+    width:300px;
+}
+.signupContainer{
+    border:3px none red;
+    width:400px;
+    
+    margin:100px auto;
+    background-color: #caf0f8;
+    border-radius: 8px;
+    padding: 40px 30px ;   
+    box-shadow: 2px 2px 5px #2773a5
+}
+input{
+    width:380px;
+    height: 30px;
+}
+h4{
+    margin: 0px;
+}
+button{
+    width:386px;
+    background-color:#0077b6;
+    color:white;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+.maincontainer{
+    width:100vw;
+    height:100vh;
+}
+body{
+    
+    background:linear-gradient(to top left, #3ed8ff, #a8f5ff); 
+}
+h2{
+    font-size: 2.5rem;
+    color:#212121;
+}
